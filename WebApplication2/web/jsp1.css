@@ -1,4 +1,8 @@
-
+body{
+    background-image: url('images/MegaTron.jpg');
+    background-repeat: no-repeat;
+        
+}
 .barra_separadora {
   background-color: #CC673B; /* Color de fondo */
   border: 3px solid #C9C9C9; /* Color de Borde */
